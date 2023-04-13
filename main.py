@@ -1,2 +1,1 @@
-p
-rint('hello')
+print('hello')
